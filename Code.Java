@@ -92,7 +92,7 @@ class StudentManager implements RecordActions {
     }
 }
 
-public class Main {
+public class Code {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         StudentManager manager = new StudentManager();
